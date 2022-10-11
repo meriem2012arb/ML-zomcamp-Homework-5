@@ -72,13 +72,6 @@ What's the probability that this client will get a credit card?
 
 Answer : 0.162
 
-If you're getting errors when unpickling the files, check their checksum:
-
-```bash
-$ md5sum model1.bin dv.bin
-3f57f3ebfdf57a9e1368dcd0f28a4a14  model1.bin
-6b7cded86a52af7e81859647fa3a5c2e  dv.bin
-```
 
 
 ## Question 4
