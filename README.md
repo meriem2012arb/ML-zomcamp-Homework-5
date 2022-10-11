@@ -8,6 +8,7 @@ In this homework, we will use Credit Card Data from [the previous homework](http
 
 * Install Pipenv
 * What's the version of pipenv you installed?
+
 Answer : 2022.10.10
 
 
@@ -15,7 +16,8 @@ Answer : 2022.10.10
 
 * Use Pipenv to install Scikit-Learn version 1.0.2
 * What's the first hash for scikit-learn you get in Pipfile.lock?
-Answer : 
+
+Answer : 62db916eaa3ba201789358b59e73eb7630266ef79c9c3f4d67236779aaf5f04a
 
 
 ## Models
@@ -99,6 +101,8 @@ What's the probability that this client will get a credit card?
 * 0.484
 * 0.698
 * 0.928
+
+
 Answer : 0.928
 
 
@@ -133,8 +137,10 @@ So what's the size of this base image?
 * 125 Mb
 * 275 Mb
 * 415 Mb
+* 
 
 Answer: 125 Mb
+
 
 You can get this information when running `docker images` - it'll be in the "SIZE" column.
 
@@ -177,4 +183,5 @@ What's the probability that this client will get a credit card now?
 * 0.502
 * 0.769
 * 0.972
+
 Answer : 0.769
